@@ -13,6 +13,7 @@
 <br>
 
 - 🔭 I’m currently working on [MY INTERNSHIP PROJECT](https://play.google.com/store/apps/details?id=visionintello.istaffrotapp&hl=en_IN&gl=US)
+- 🌱 I’m currently Working on Mobile App(React-Native)
 
 - 🌱 I’m currently learning **DSA, REACT NATIVE**
 
@@ -29,6 +30,15 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Anonymous Class in Java (Java, Software Engineering)](https://iq.opengenus.org/anonymous-class-in-java/)
+- [Static Initialization Block in Java (Java, Software Engineering)](https://iq.opengenus.org/static-initialization-block-in-java/)
+- [Match Lambdas to Interfaces in Java (Java, Software Engineering)](https://www.geeksforgeeks.org/match-lambdas-to-interfaces-in-java/)
+- [Union of Two Arrays(Alogorithms,Interview Problems on Array)](https://iq.opengenus.org/union-of-two-arrays/)
+- [Shortest distance between a Line and Point in 3D plane(Algorithms,Computational Geometry)](https://iq.opengenus.org/shortest-distance-between-line-and-point-in-3d-plane/)
+- [Time and Space Complexity of Queue(Algorithm,Time Complexity, Data Structure)](https://iq.opengenus.org/time-and-space-complexity-of-queue/)
+- [Basics of Rich Text Format (RTF)(System Design)](https://iq.opengenus.org/rich-text-format/)
+- [Portable Network Graphics (PNG) File Format (RTF)(System Design)](https://iq.opengenus.org/png-format/)
+
 <!-- BLOG-POST-LIST:END -->
 
 
