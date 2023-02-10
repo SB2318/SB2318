@@ -19,12 +19,20 @@
 
 - 💬 Ask me about **Android Application Development, Java, Kotlin**
 
-- 📫 How to reach me **susmitabhattacharya2023@gmail.com**
 
 - ⚡ Life Fact :  **शन्नै क्रमति साहः**
 
 <br>
 <br>
+
+---
+
+<h3 align="left"> Connect with Me 😀</h3>
+
+  <p align="left">
+  <a target="_blank"href="https://www.linkedin.com/in/s-bhattacharya-3687621b7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="susmitabhattacharya2023@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ---
 
