@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/susmita-n-m-bhattacharya/](https://www.linkedin.com/in/susmita-n-m-bhattacharya/)
 
-- ⚡ Fun fact **Talkative 🙃**
+- ⚡ Fun fact **Talkative with proper vibes 🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
