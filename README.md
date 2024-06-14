@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Ionic framework**
 
-- 👯 I’m looking to collaborate on [Open-Source Project](https://github.com/topics/linphone-android)
+- 👯 I’m looking to collaborate on [Open-Source Project](https://github.com/BelledonneCommunications/linphone-android)
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/sbhattacharya2000/articles](https://auth.geeksforgeeks.org/user/sbhattacharya2000/articles)
 
