@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Susmita Bhattacharya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-
+   ![](https://komarev.com/ghpvc/?username=SB2318)
 
 - 🔭 I’m currently working on [UltimateHealth project](https://github.com/SB2318/UltimateHealth)
 
