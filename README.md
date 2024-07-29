@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Susmita Bhattacharya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-   ![](https://komarev.com/ghpvc/?username=SB2318)
+   ![](https://komarev.com/ghpvc/?username=SB2318&label=PROFILE+VIEWS&abbreviated=true)
 
 - 🔭 I’m currently working on [UltimateHealth project](https://github.com/SB2318/UltimateHealth)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Ionic framework**
 
-- 👯 I’m looking to collaborate on [Open-Source Project](https://github.com/BelledonneCommunications/linphone-android)
+- 👯 I’m looking to collaborate on [Open-Source Project]
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/sbhattacharya2000/articles](https://auth.geeksforgeeks.org/user/sbhattacharya2000/articles)
+- 📝 I often write articles on [GF-G](https://auth.geeksforgeeks.org/user/sbhattacharya2000/articles)
 
 - 💬 Ask me about **Mobile Application Development, Java, Kotlin, React-Native, JavaScript, Express framework**
 
-- 📫 How to reach me **https://www.linkedin.com/in/susmita-n-m-bhattacharya/**
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/susmita-n-m-bhattacharya/)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/susmita-n-m-bhattacharya/](https://www.linkedin.com/in/susmita-n-m-bhattacharya/)
+- 📄 Know about my experiences [Click Here](https://www.linkedin.com/in/susmita-n-m-bhattacharya/)
 
-- ⚡ Fun fact **Can study in a horror room.🥶**
+- ⚡ Fun fact **Have a superpower for finding hidden giggles 🤭 and candy-coated dreams 🍭✨!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
