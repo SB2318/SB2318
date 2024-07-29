@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Susmita Bhattacharya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-   ![](https://komarev.com/ghpvc/?username=SB2318&label=PROFILE+VIEWS&abbreviated=true)
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sb2318" alt="sb2318" /></a> </p>
+
+<br>
+
+ ![](https://komarev.com/ghpvc/?username=SB2318&label=PROFILE+VIEWS&abbreviated=true)
 
 - 🔭 I’m currently working on [UltimateHealth project](https://github.com/SB2318/UltimateHealth)
 
