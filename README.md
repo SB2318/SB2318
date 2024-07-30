@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [Open-Source Project]
 
-- 📝 I often write articles on [GF-G](https://auth.geeksforgeeks.org/user/sbhattacharya2000/articles)
+- 📝 I often write articles on [GFG](https://auth.geeksforgeeks.org/user/sbhattacharya2000/articles)
 
 - 💬 Ask me about **Mobile Application Development, Java, Kotlin, React-Native, JavaScript, Express framework**
 
