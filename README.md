@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Susmita Bhattacharya</h1>
+<h1 align="center">Hi 👋, I'm Susmita Bhattacharya (Jolite)</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <br>
@@ -12,8 +12,6 @@
 - 🔭 I’m currently working on [UltimateHealth project](https://github.com/SB2318/UltimateHealth)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Ionic framework**
-
-- 👯 I’m looking to collaborate on [Open-Source Project]
 
 - 📝 I often write articles on [GFG](https://auth.geeksforgeeks.org/user/sbhattacharya2000/articles)
 
