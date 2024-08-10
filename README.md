@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Susmita Bhattacharya (Jolite)</h1>
+<h1 align="center">Hi 👋, I'm Susmita Bhattacharya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <br>
