@@ -9,13 +9,11 @@
 
  ![](https://komarev.com/ghpvc/?username=SB2318&label=PROFILE+VIEWS&abbreviated=true)
 
-- 🔭 I’m currently working on [UltimateHealth project](https://github.com/SB2318/UltimateHealth)
-
-- 🌱 I’m currently learning **Data Structures and Algorithms, Ionic framework**
+- 🔭 I’m currently working on [UltimateHealth](https://github.com/SB2318/UltimateHealth) and [Jyoti-A Ray of Hope](https://github.com/SB2318/Jyoti) projects.
 
 - 📝 I often write articles on [GFG](https://auth.geeksforgeeks.org/user/sbhattacharya2000/articles)
-
-- 💬 Ask me about **Mobile Application Development, Java, Kotlin, React-Native, JavaScript, Express framework**
+ 
+- 💬 Ask me about **Mobile Application Development, System Design, Java, Kotlin, React-Native, JavaScript, Express framework**
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/susmita-n-m-bhattacharya/)**
 
