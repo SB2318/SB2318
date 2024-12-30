@@ -19,7 +19,7 @@
 
 - 📄 Know more about my experiences: [Click Here](https://www.linkedin.com/in/susmita-n-m-bhattacharya/)
 
-- ⚡ Fun fact: **I have a superpower for finding hidden giggles 🤭 and candy-coated dreams 🍭✨!**
+- ⚡ Fun fact: **Relax Soul, Love to do Research and Development (If you know, you know 😊)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
