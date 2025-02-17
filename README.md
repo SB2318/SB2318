@@ -13,6 +13,8 @@
 
 - 📝 I often write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sbhattacharya2000/articles)
 - 🌱 I’m currently learning **system administration**, **server management**, and **cloud infrastructure**.
+- ✍️ My passions include **content writing**, **teaching**, and **sharing valuable information** with my community.
+- 📚I prioritize learning 📚 and the achievements that come from it 🏆, rather than focusing on completion ✅ or proving something 💪
 - 💬 Ask me about **Mobile Application Development, System Design, Java, Kotlin, React-Native, JavaScript, Express framework**.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/susmita-n-m-bhattacharya/)
