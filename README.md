@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [UltimateHealth](https://github.com/SB2318/UltimateHealth) and [Jyoti-A Ray of Hope](https://github.com/SB2318/Jyoti) projects.
 
-- 📝 I often write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sbhattacharya2000/articles)
+- 📝 I often write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sbhattacharya2000/articles) & [Medium](https://medium.com/@bhattacharyas161/)
 - 🌱 I’m currently learning **system administration**, **server management**, and **cloud infrastructure**.
 - ✍️ My passions include **content writing**, **teaching**, and **sharing valuable information** with my community.
 - 📚I prioritize learning 📚 and the achievements that come from it 🏆, rather than focusing on completion ✅ or proving something 💪
