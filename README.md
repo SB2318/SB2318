@@ -7,6 +7,11 @@
 - 📚I prioritize learning 📚 and the achievements that come from it 🏆, rather than focusing on completion ✅ or proving something 💪
 - 💬 Ask me about **Mobile Application Development, System Design, Java, Kotlin, React-Native, JavaScript, and Express framework**.
 
+  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sb2318&label=Profile%20views&color=0e75b6&style=flat" alt="sb2318" /> </p>
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/susmita-n-m-bhattacharya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@bhattacharyas161) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@SB2318-u9e) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhattacharyas161@gmail.com) 
