@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -22,8 +22,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: SB2318
-          outputs: dist/snake.svg?palette=github-light
-
+          outputs: dist/snake.svg?palette=github-dark&color_snake=3B82F6&color_dots=#10B981,#34D399,#6EE7B7,#A7F3D0,#D1FAE5
+          title: "SB2318's Contribution Graph 💙"
+          width: 800
+          height: 200
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
