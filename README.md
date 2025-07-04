@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/susmita-n-m-bhattacharya) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@bhattacharyas161) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@SB2318-u9e) 
-[![Email](https://img.shields.io/badge/Email-sb2318@it.jgec.ac.in-D14836?logo=gmail&logoColor=white)](mailto:sb2318@it.jgec.ac.in)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&labelColor=red)](mailto:bhattacharyas161@gmail.com)
 
 
 # 💻 Tech Stack:
