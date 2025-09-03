@@ -1,7 +1,6 @@
 # 💫 About Me:
 
 - 🔭 I’m currently working on [UltimateHealth](https://github.com/SB2318/UltimateHealth) and [Jyoti-A Ray of Hope](https://github.com/SB2318/Jyoti) projects.
-- 📝 I often write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sbhattacharya2000/articles) & [Medium](https://medium.com/@bhattacharyas161/)
 - ✍️ My passions include **content writing**, **teaching**, and **sharing valuable information** with my community.
 - 📚I prioritize learning 📚 and the achievements that come from it 🏆, rather than focusing on completion ✅ or proving something 💪
 - 💬 Ask me about **Mobile Application Development, System Design, Java, Kotlin, React-Native, JavaScript, and Express framework**.
