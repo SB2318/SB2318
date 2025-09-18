@@ -23,6 +23,8 @@
 
 # 📊 GitHub Stats:
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=SB2318&commits_year=2025&show_icons=true&theme=radical)](https://github.com/SB2318)
+
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=SB2318&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SB2318&theme=onedark&hide_border=false)<br/>
