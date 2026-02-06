@@ -1,6 +1,5 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working [Jyoti-A Ray of Hope](https://github.com/SB2318/Jyoti-A-Ray-Of-Hope) project.
 - ✍️ My passions include **content writing**, **teaching**, and **sharing valuable information** with my community.
 - 📚I prioritize learning 📚 and the achievements that come from it 🏆, rather than focusing on completion ✅ or proving something 💪
 - 💬 Ask me about **Mobile Application Development, System Design, Java, Kotlin, React-Native, JavaScript, and Express framework**.
