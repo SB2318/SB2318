@@ -1,7 +1,8 @@
 # 💫 About Me:
+- 🚀 Currently exploring SaaS development in the **Real Estate domain**.
 - ✍️ My passions include **content writing**, **teaching**, and **sharing valuable information** with my community.
 -  📚I prioritize learning 📚 and the achievements that come from it 🏆, rather than focusing on completion ✅ or proving something 💪
-- 💬 Ask me about **Mobile Application Development, System Design, Java, Kotlin, React-Native, JavaScript, and Express framework**.<br>
+- 💬 Ask me about **Mobile Application Development, System Design, Java, Database Operations, SAAS Development, React-Native, JavaScript, and Express framework**.<br>
 
 ![](https://komarev.com/ghpvc/?username=SB2318&style=flat-square)
 
