@@ -1,5 +1,4 @@
 # 💫 About Me:
-- 🚀 Currently exploring  development in the **Real Estate domain**.
 - ✍️ My passions include **content writing**, **teaching**, and **sharing valuable information** with my community while also being dedicated to developing my child <a href ="https://play.google.com/store/apps/details?id=com.anonymous.UltimateHealth" target="_blank">**UltimateHealth's** </a> and it's well-being.
 -  📚I prioritize learning 📚 and the achievements that come from it 🏆, rather than focusing on completion ✅ or proving something 💪
 <!-- - 💬 Ask me about **Mobile Application Development, System Design, Java, Database Operations, React-Native, JavaScript, and Express framework**.<br> -->
