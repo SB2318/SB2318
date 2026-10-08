@@ -44,7 +44,7 @@
 #### 🎯 Focus & Interests
 - 📲 Creator & maintainer of [**UltimateHealth**](https://play.google.com/store/apps/details?id=com.anonymous.UltimateHealth), a comprehensive mobile & web health tracking platform.
 - 🤝 **Open Source**: Actively contributing to open-source repositories (*Tracer-Cloud, ScreenStream, MetaBrainz*).
-- 💬 Ask me about: **System Design, Database Architecture, Java, & React Native**.
+- Ask me about everything, But Reply is my choice
     </td>
   </tr>
 </table>
