@@ -35,15 +35,15 @@
     <td width="50%" valign="top">
 
 #### 🚀 What I Do
-- 💻 **Software Engineering & Web**: Building scalable applications using **Next.js, React, Node.js, & TypeScript**.
+- 💻 **Software Engineering & Web**: Building  applications using **Next.js, React, Node.js, & TypeScript**.
 - 📱 **Mobile Application Development**: Engineering cross-platform Android apps with **React Native & Kotlin**.
-- 🎓 **Technical Writing & Teaching**: Sharing in-depth technical articles, tutorials, and community guides.
+- 🎓 **Technical Writing & Teaching**: Sharing  technical articles, tutorials, and community guides.
     </td>
     <td width="50%" valign="top">
 
 #### 🎯 Focus & Interests
 - 📲 Creator & maintainer of [**UltimateHealth**](https://play.google.com/store/apps/details?id=com.anonymous.UltimateHealth), a comprehensive mobile & web health tracking platform.
-- 🤝 **Open Source**: Actively contributing to major open-source repositories (*Tracer-Cloud, ScreenStream, MetaBrainz*).
+- 🤝 **Open Source**: Actively contributing to open-source repositories (*Tracer-Cloud, ScreenStream, MetaBrainz*).
 - 💬 Ask me about: **System Design, Database Architecture, Java, & React Native**.
     </td>
   </tr>
