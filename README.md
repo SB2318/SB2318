@@ -40,7 +40,7 @@
 
 #### 🎯 Focus & Interests
 - 📲 **UltimateHealth**: Maintainer of an active multi-platform health monitoring product.
-- 🤝 **Open Source**: Actively contributing to **xAI (`grok-prompts`)**, **Tracer-Cloud**, **ScreenStream**, and **MetaBrainz**.
+- 🤝 **Open Source**: Actively contributed to **xAI**, **Tracer-Cloud**, **ScreenStream**.
 - 💬 Open to full-stack, mobile, and AI system discussions.
     </td>
   </tr>
