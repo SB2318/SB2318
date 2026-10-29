@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | AI & LLM Systems | Open Source Contributor</h3>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.anonymous.UltimateHealth" target="_blank">
+  <a href="https://ultimatehealth.blog" target="_blank">
     <img src="https://img.shields.io/badge/📱_Featured_Project-UltimateHealth-22c55e?style=for-the-badge&logoColor=white" alt="UltimateHealth" />
   </a>
   <a href="https://linkedin.com/in/sbhattacharya2000" target="_blank">
